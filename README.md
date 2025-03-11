@@ -17,5 +17,9 @@ Any rules that are changed by GW will take a while to be updated.
 I can not guarantee that the data and anything else in the project will always be up to date.
 
 <br>
-Logs:
+Planned:
 
+Random list maker.
+
+<br>
+Logs:
