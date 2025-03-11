@@ -5,9 +5,13 @@ I like using battlescribe and new recruit but I wanted the option of changing lo
 
 Please make not that:
 Warhammer 40K and associated content is the property of Games Workshop.
+
 This project is intended only for personal use.
+
 This project is very much a work in progress.
+
 Any rules that are changed by GW will take a while to be updated.
+
 I can not guarantee that the data and anything else in the project will always be up to date.
 
 Logs:
